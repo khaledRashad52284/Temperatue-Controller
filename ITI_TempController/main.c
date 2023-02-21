@@ -2,7 +2,7 @@
  * main.c
  *
  *  Created on: Jan 17, 2023
- *      Author: nadin
+ *      Author: Khaled
  */
 #include "STD_Types.h"
 #include "BIT_Math.h"
